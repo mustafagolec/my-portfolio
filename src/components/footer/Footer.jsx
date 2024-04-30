@@ -10,6 +10,10 @@ const Footer = () => {
 
                 <ul className="footer__list">
                     <li>
+                        <a href="#" className="footer__link">Homepage</a>
+                    </li>
+
+                    <li>
                         <a href="#about" className="footer__link">About</a>
                     </li>
 
@@ -37,7 +41,7 @@ const Footer = () => {
                     </a>
                 </div>
 
-                <span className="footer__copy">&#169; Crypticalcoder. All Rights Reserved</span>
+                <span className="footer__copy">April 2024</span>
             </div>
         </footer>
     )
