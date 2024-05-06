@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.0039b054.css",
-    "main.js": "/my-portfolio/static/js/main.dd061df0.js",
+    "main.js": "/my-portfolio/static/js/main.12571243.js",
     "static/media/mg-1.jpeg": "/my-portfolio/static/media/mg-1.b4f49b0252f10efb9222.jpeg",
     "static/media/Mustafa_Golec.pdf": "/my-portfolio/static/media/Mustafa_Golec.146ac9caf90c88e3f84b.pdf",
     "static/media/mg-0.jpg": "/my-portfolio/static/media/mg-0.427f30dc09e56f27fb36.jpg",
@@ -15,10 +15,10 @@
     "static/media/testimonial1.png": "/my-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/my-portfolio/index.html",
     "main.0039b054.css.map": "/my-portfolio/static/css/main.0039b054.css.map",
-    "main.dd061df0.js.map": "/my-portfolio/static/js/main.dd061df0.js.map"
+    "main.12571243.js.map": "/my-portfolio/static/js/main.12571243.js.map"
   },
   "entrypoints": [
     "static/css/main.0039b054.css",
-    "static/js/main.dd061df0.js"
+    "static/js/main.12571243.js"
   ]
 }
