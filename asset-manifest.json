@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.0039b054.css",
-    "main.js": "/my-portfolio/static/js/main.3adb99a9.js",
+    "main.js": "/my-portfolio/static/js/main.98a5bbfc.js",
     "static/media/mg-1.jpeg": "/my-portfolio/static/media/mg-1.b4f49b0252f10efb9222.jpeg",
     "static/media/Mustafa_Golec.pdf": "/my-portfolio/static/media/Mustafa_Golec.146ac9caf90c88e3f84b.pdf",
     "static/media/mg-0.jpg": "/my-portfolio/static/media/mg-0.427f30dc09e56f27fb36.jpg",
+    "static/media/work2.jpg": "/my-portfolio/static/media/work2.7eab711ab8442015d141.jpg",
+    "static/media/work1.jpg": "/my-portfolio/static/media/work1.ebb6a0af2799dc333340.jpg",
     "static/media/testimonial3.png": "/my-portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/work2.jpg": "/my-portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
     "static/media/testimonial2.png": "/my-portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/work4.jpg": "/my-portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
     "static/media/work5.jpg": "/my-portfolio/static/media/work5.094ec4a2224db8908873.jpg",
-    "static/media/work1.jpg": "/my-portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/work3.jpg": "/my-portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
     "static/media/testimonial1.png": "/my-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/my-portfolio/index.html",
     "main.0039b054.css.map": "/my-portfolio/static/css/main.0039b054.css.map",
-    "main.3adb99a9.js.map": "/my-portfolio/static/js/main.3adb99a9.js.map"
+    "main.98a5bbfc.js.map": "/my-portfolio/static/js/main.98a5bbfc.js.map"
   },
   "entrypoints": [
     "static/css/main.0039b054.css",
-    "static/js/main.3adb99a9.js"
+    "static/js/main.98a5bbfc.js"
   ]
 }
